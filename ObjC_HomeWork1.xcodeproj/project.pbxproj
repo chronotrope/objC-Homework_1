@@ -22,13 +22,13 @@
 		458E8ADC14BFF3800086A1B6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		458E8ADE14BFF3800086A1B6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		458E8AE014BFF3800086A1B6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		458E8AE414BFF3800086A1B6 /* ObjC_HomeWork1-Info.plist */ = {isa = PBXFileReference; path = "ObjC_HomeWork1-Info.plist"; sourceTree = "<group>"; };
+		458E8AE414BFF3800086A1B6 /* ObjC_HomeWork1-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ObjC_HomeWork1-Info.plist"; sourceTree = "<group>"; };
 		458E8AE614BFF3800086A1B6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		458E8AE814BFF3800086A1B6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		458E8AEA14BFF3800086A1B6 /* ObjC_HomeWork1-Prefix.pch */ = {isa = PBXFileReference; path = "ObjC_HomeWork1-Prefix.pch"; sourceTree = "<group>"; };
-		458E8AEB14BFF3800086A1B6 /* RGRAppDelegate.h */ = {isa = PBXFileReference; path = RGRAppDelegate.h; sourceTree = "<group>"; };
+		458E8AEA14BFF3800086A1B6 /* ObjC_HomeWork1-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ObjC_HomeWork1-Prefix.pch"; sourceTree = "<group>"; };
+		458E8AEB14BFF3800086A1B6 /* RGRAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RGRAppDelegate.h; sourceTree = "<group>"; };
 		458E8AEC14BFF3800086A1B6 /* RGRAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RGRAppDelegate.m; sourceTree = "<group>"; };
-		458E8AEE14BFF3800086A1B6 /* RGRViewController.h */ = {isa = PBXFileReference; path = RGRViewController.h; sourceTree = "<group>"; };
+		458E8AEE14BFF3800086A1B6 /* RGRViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RGRViewController.h; sourceTree = "<group>"; };
 		458E8AEF14BFF3800086A1B6 /* RGRViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RGRViewController.m; sourceTree = "<group>"; };
 		458E8AF214BFF3800086A1B6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/RGRViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */

@@ -9,5 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface RGRViewController : UIViewController
+<UITableViewDelegate, UITableViewDataSource>
 
+@property (strong, nonatomic) NSArray *jobData;
+@property (strong, nonatomic) NSArray *jobDetail;
 @end
